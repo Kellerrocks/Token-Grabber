@@ -3,8 +3,6 @@
 **NOTE:** This is a free software. It will not be undetected from antivirus software.
 
 
-#### Hazard-Token-Grabber-V2 was made by
-Love ❌ code ✅
 
 #### When someone executes the file, the following info will be sent to you:
 -  User Name.
